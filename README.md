@@ -42,8 +42,6 @@ height="40"
 />
 </a>
 
-</p>
-<p align="center">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -68,8 +66,6 @@ width="40"
 height="40"
 />
 </a>
-</p>
-<p align="center">
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -95,8 +91,6 @@ width="40"
 height="40"
 />
 </a>
-</p>
-<p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
